@@ -4,7 +4,6 @@ using FileStorageBL.Facades;
 using FileStorageBL.QueryObjects;
 using FileStorageBL.Services;
 using FileStorageDAL.Config;
-using System.Linq;
 using System.Reflection;
 
 namespace FileStorageBL.Config

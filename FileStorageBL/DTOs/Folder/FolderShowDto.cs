@@ -8,7 +8,6 @@ namespace FileStorageBL.DTOs
         public string Name { get; set; }
         //public DateTime? Deleted { get; set; }
         public User Owner { get; set; }
-        // TODO?
         public ICollection<Folder> Folders { get; set; }
         public ICollection<VersionedFile> VersionedFiles { get; set; }
 
